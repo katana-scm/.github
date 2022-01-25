@@ -22,7 +22,7 @@ Please delete options that are not relevant.
 Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration
 
 - [ ] Unit tests
-- [ ] Integration test
+- [ ] Integration tests
 - [ ] Tested manually (in some context, provide more details)
 
 # Checklist:
