@@ -24,6 +24,7 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 - [ ] Unit tests
 - [ ] Integration tests
 - [ ] Tested manually (in some context, provide more details)
+- [ ] Type tests (via example declarations + ts-expect-error examples)
 
 # Checklist:
 
