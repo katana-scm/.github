@@ -10,7 +10,7 @@ Longer reasoning on what strategy was chosen and how it was implemented.
 
 ## Type of change
 
-Please delete options that are not relevant.
+Please DELETE options that are not relevant (so that github pr list would report that all tasks have been completed)
 
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
@@ -19,17 +19,12 @@ Please delete options that are not relevant.
 
 # How Has This Been Tested?
 
-Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration
+Please DELETE options that are not relevant (so that github pr list would report that all tasks have been completed)
 
 - [ ] Unit tests
 - [ ] Integration tests
 - [ ] Type tests (via example declarations + ts-expect-error examples)
 - [ ] Tested manually (ADD REASON WHY MANUALLY)
 - [ ] Not tested (ADD REASON WHY NOT TESTED)
-
-# Checklist:
-
-- [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] My changes generate no new warnings
 
 [^1]: Here is how to conduct a [code review](https://katanaos.atlassian.net/wiki/spaces/EN/pages/82116626/How+to+conduct+Code+Review)
