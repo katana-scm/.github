@@ -25,7 +25,6 @@ Please DELETE options that are not relevant (so that github pr list would report
 - [ ] Integration tests
 - [ ] Type tests (via example declarations + ts-expect-error examples)
 - [ ] E2E tests (provide PR if new tests)
-- [ ] Contract tests
 - [ ] Tested manually (ADD REASON WHY)
 - [ ] Not tested (ADD REASON WHY)
 
