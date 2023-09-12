@@ -26,7 +26,7 @@ Please DELETE options that are not relevant (so that github pr list would report
 - [ ] Type tests (via example declarations + ts-expect-error examples)
 - [ ] E2E tests (provide PR if new tests)
 - [ ] Contract tests
-- [ ] Tested manually (ADD REASON WHY MANUALLY)
-- [ ] Not tested (ADD REASON WHY NOT TESTED)
+- [ ] Tested manually (ADD REASON WHY)
+- [ ] Not tested (ADD REASON WHY)
 
 [^1]: Here is how to conduct a [code review](https://katanaos.atlassian.net/wiki/spaces/EN/pages/82116626/How+to+conduct+Code+Review)
