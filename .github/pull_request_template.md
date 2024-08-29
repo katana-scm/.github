@@ -8,15 +8,6 @@ Longer reasoning (does not have to be wall of text) on what strategy was chosen 
 
 Longer reasoning on what strategy was chosen and how it was implemented.
 
-## Type of change
-
-Please DELETE options that are not relevant (so that github pr list would report that all tasks have been completed)
-
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] Maintenance (changes meta-data, package setup or readme)
-
 # How Has This Been Tested?
 
 Please DELETE options that are not relevant (so that github pr list would report that all tasks have been completed)
