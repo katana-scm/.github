@@ -10,8 +10,6 @@ Longer reasoning on what strategy was chosen and how it was implemented.
 
 # How Has This Been Tested?
 
-Please DELETE options that are not relevant (so that github pr list would report that all tasks have been completed)
-
 - [ ] Test automation
 - [ ] Tested manually (ADD REASON WHY)
 - [ ] Not tested (ADD REASON WHY)
