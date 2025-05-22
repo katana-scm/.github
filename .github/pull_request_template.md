@@ -1,3 +1,13 @@
+# **AI Label Reminder**
+
+Please set one of the following labels on this PR to indicate the level of AI involvement:
+- `AI-100`: Fully prompted from start to finish
+- `AI-High`: More than 50% AI involvement
+- `AI-Low`: Less than 50% AI involvement
+- `AI-0`: No AI involvement at all
+
+_This helps us track our prompt-first journey and report progress!_
+
 # Description[^1]
 
 **Short heading on why the change is necessary**
